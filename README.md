@@ -33,7 +33,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ahmad-al-sayedd/Portfolio.git
+   git clone https://github.com/Ahmad-al-sayedd/basic-table.git
 
    ```
 2. Change git remote url to avoid accidental pushes to base project
